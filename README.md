@@ -17,3 +17,5 @@ Układ sterownia pompą podłączoną do zbiornika. Zbiornik posiada 2 czujniki 
     <td>stan wysoki</td>
   </th>
 </table>
+<h3>przycisk wlaczajacy i wylaczajacy</h3>
+Zapisanie stanu w pamieci czy przycisk byl zalaczony, wykorzystanie zbocza gornego
