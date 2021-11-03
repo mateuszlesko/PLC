@@ -71,8 +71,6 @@ Gdy na wejsciach C0 panuje stan logiczny 1 i na C1 panuje stan logiczny 0, oznac
 Gdzie: C0 = stan wejscia czujnika poziomu dolnego C1 = stan wejscia czujnika poziomu wysokiego PNW = wyjscie poziom wysoki
 <h5>Opis:</h5>
 Gdy na wejsciach C0 i C1 panuje stan logiczny 1, oznacza to, ze w zbiorniku poziom cieczy jest na poziomie wysokim
-<h3>UKLAD: przycisk wlaczajacy i wylaczajacy</h3>
-Zapisanie stanu w pamieci czy przycisk byl zalaczony, wykorzystanie zbocza gornego do potrzymania stanu wyjsciowego na jego wejscie
 
 <h4>NETWORK: awaria</h4>
 ![image](https://user-images.githubusercontent.com/31209474/140066466-64726e65-7aa6-4834-ae3b-b65c952cd7e2.png)<br/>
