@@ -112,5 +112,8 @@ sygAwaria = wyjscie pod adresem Q0.7 sygnalizujace awarie.
 <h5>Opis</h5>
 Jesli pole pAwarii (adres komorki w pamieci) i sygnal zegara przyjmuja wartosc 1 lub jesli pole wyjsciowe networkingu awaria i pole pAwarii przyjmuja wartosc 1, to zasygnalizuj awarie 
 
-<h3>UKŁAD: przycisk włączajacy i wyłączający</h3>
+<h3>UKŁAD: przycisk włączajacy i wyłączający (podzielnik binary)</h3>
 Zapisanie stanu w pamieci czy przycisk byl załączony, wykorzystanie zbocza górnego do podtrzymania stanu
+<h3>UKŁAD: wykrywanie kierunku</h3>
+<h3>UKŁAD: taśma produkcyjna</h3>
+Wykorzystanie zbocza opadającego do weryfikacji na ruchomej taśmie produkcyjnej dlugości elementów
