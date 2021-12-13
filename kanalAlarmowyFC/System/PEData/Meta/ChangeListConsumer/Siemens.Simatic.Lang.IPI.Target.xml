@@ -1,0 +1,36 @@
+IO       70 times
+00:00:10.127494 /Devices/IDE0/ATA1/Unit0/DMA            0 times
+00:00:10.127502 /Devices/IDE0/ATA1/Unit0/PIO            0 times
+00:00:10.127508 /Devices/IDE0/ATA1/Unit0/ReadBytes  1890304 bytes
+00:00:10.127514 /Devices/IDE0/ATA1/Unit0/StatusYields     3010 ticks/call (     4761932 ticks,    1582 times, max   2796592, min     545)
+00:00:10.127521 /Devices/IDE0/ATA1/Unit0/WrittenBytes        0 bytes
+00:00:10.127527 /Devices/IDE0/ATA1/Unit1/AtapiDMA        0 times
+00:00:10.127532 /Devices/IDE0/ATA1/Unit1/AtapiPIO        0 times
+00:00:10.127538 /Devices/IDE0/ATA1/Unit1/DMA            0 times
+00:00:10.127543 /Devices/IDE0/ATA1/Unit1/PIO            0 times
+00:00:10.127549 /Devices/IDE0/ATA1/Unit1/ReadBytes        0 bytes
+00:00:10.127555 /Devices/IDE0/ATA1/Unit1/StatusYields        0 ticks/call (           0 ticks,       0 times, max         0, min      -1)
+00:00:10.127561 /Devices/IDE0/ATA1/Unit1/WrittenBytes        0 bytes
+00:00:10.127567 /Devices/VMMDev/BalloonChunks           0 count
+00:00:10.127573 /Devices/VMMDev/FastIrqAckR3            0 count
+00:00:10.127578 /Devices/VMMDev/FastIrqAckRZ            0 count
+00:00:10.127584 /Devices/VMMDev/HGCM-Guest/BudgetAvailable 131782976 bytes
+00:00:10.127590 /Devices/VMMDev/HGCM-Guest/BudgetConfig 131782976 bytes
+00:00:10.127597 /Devices/VMMDev/HGCM-Guest/cTotalMessages        0 count
+00:00:10.127603 /Devices/VMMDev/HGCM-Guest/cbHeapTotal        0 bytes
+00:00:10.127609 /Devices/VMMDev/HGCM-Legacy/BudgetAvailable 131782976 bytes
+00:00:10.127615 /Devices/VMMDev/HGCM-Legacy/BudgetConfig 131782976 bytes
+00:00:10.127621 /Devices/VMMDev/HGCM-Legacy/cTotalMessages        0 count
+00:00:10.127627 /Devices/VMMDev/HGCM-Legacy/cbHeapTotal        0 bytes
+00:00:10.127633 /Devices/VMMDev/HGCM-OtherDrv/BudgetAvailable 131782976 bytes
+00:00:10.127639 /Devices/VMMDev/HGCM-OtherDrv/BudgetConfig 131782976 bytes
+00:00:10.127645 /Devices/VMMDev/HGCM-OtherDrv/cTotalMessages        0 count
+00:00:10.127651 /Devices/VMMDev/HGCM-OtherDrv/cbHeapTotal        0 bytes
+00:00:10.127656 /Devices/VMMDev/HGCM-Reserved1/BudgetAvailable 131782976 bytes
+00:00:10.127662 /Devices/VMMDev/HGCM-Reserved1/BudgetConfig 131782976 bytes
+00:00:10.127668 /Devices/VMMDev/HGCM-Reserved1/cTotalMessages        0 count
+00:00:10.127674 /Devices/VMMDev/HGCM-Reserved1/cbHeapTotal        0 bytes
+00:00:10.127680 /Devices/VMMDev/HGCM-Root/BudgetAvailable 131782976 bytes
+00:00:10.127686 /Devices/VMMDev/HGCM-Root/BudgetConfig 131782976 bytes
+00:00:10.127692 /Devices/VMMDev/HGCM-Root/cTotalMessages        0 count
+00:00:10.127698 /Devices/VMMDev/HGCM-Root/cbHeapTota
