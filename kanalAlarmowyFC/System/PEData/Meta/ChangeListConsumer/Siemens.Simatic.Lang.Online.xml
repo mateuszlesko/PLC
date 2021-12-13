@@ -1,0 +1,44 @@
+uStatDescDat           0 ns
+00:00:10.127842 /Devices/e1000#0/uStatDescLeg           0 ns
+00:00:10.127850 /Devices/e1000#0/uStatInt               0 ns
+00:00:10.127856 /Devices/e1000#0/uStatIntEarly          0 ns
+00:00:10.127862 /Devices/e1000#0/uStatIntICS            0 ns
+00:00:10.127868 /Devices/e1000#0/uStatIntIMS            0 ns
+00:00:10.127874 /Devices/e1000#0/uStatIntLate           0 ns
+00:00:10.127881 /Devices/e1000#0/uStatIntLower          0 ns
+00:00:10.127888 /Devices/e1000#0/uStatIntMasked         0 ns
+00:00:10.127893 /Devices/e1000#0/uStatIntRDTR           0 ns
+00:00:10.127900 /Devices/e1000#0/uStatIntRXDMT0         0 ns
+00:00:10.127906 /Devices/e1000#0/uStatIntRx             0 ns
+00:00:10.127912 /Devices/e1000#0/uStatIntSkip           0 ns
+00:00:10.127918 /Devices/e1000#0/uStatIntTXQE           0 ns
+00:00:10.127924 /Devices/e1000#0/uStatIntTry            0 ns
+00:00:10.127931 /Devices/e1000#0/uStatIntTx             0 ns
+00:00:10.127937 /Devices/e1000#0/uStatMaxTxDelay        0 ns
+00:00:10.127942 /Devices/e1000#0/uStatNoIntICR          0 ns
+00:00:10.127948 /Devices/e1000#0/uStatRAD               0 ns
+00:00:10.127954 /Devices/e1000#0/uStatRID               0 ns
+00:00:10.127961 /Devices/e1000#0/uStatRxFrm             0 ns
+00:00:10.127967 /Devices/e1000#0/uStatTAD               0 ns
+00:00:10.127973 /Devices/e1000#0/uStatTID               0 ns
+00:00:10.127980 /Devices/e1000#0/uStatTx1514            0 ns
+00:00:10.127986 /Devices/e1000#0/uStatTx16384           0 ns
+00:00:10.127992 /Devices/e1000#0/uStatTx2962            0 ns
+00:00:10.127997 /Devices/e1000#0/uStatTx32768           0 ns
+00:00:10.128004 /Devices/e1000#0/uStatTx4410            0 ns
+00:00:10.128010 /Devices/e1000#0/uStatTx5858            0 ns
+00:00:10.128016 /Devices/e1000#0/uStatTx7306            0 ns
+00:00:10.128022 /Devices/e1000#0/uStatTx8754            0 ns
+00:00:10.128027 /Devices/e1000#0/uStatTxDelayExp        0 ns
+00:00:10.128033 /Devices/e1000#0/uStatTxDelayed         0 ns
+00:00:10.128040 /Devices/e1000#0/uStatTxFrm             0 ns
+00:00:10.128045 /Devices/e1000#0/uStatTxIDE             0 ns
+00:00:10.128051 /Devices/e1000#0/uStatTxLarge           0 ns
+00:00:10.128056 /Devices/e1000#0/uStatTxNoRS            0 ns
+00:00:10.128064 /Devices/ichac97/Stream0/reg-CR         0 
+00:00:10.128070 /Devices/ichac97/Stream0/reg-SR         0 
+00:00:10.128077 /Devices/ichac97/Stream1/reg-CR         0 
+00:00:10.128083 /Devices/ichac97/Stream1/reg-SR         0 
+00:00:10.128090 /Devices/ichac97/Stream2/reg-CR         0 
+00:00:10.128096 /Devices/ichac97/Stream2/reg-SR         0 
+00:00:10.128102 /

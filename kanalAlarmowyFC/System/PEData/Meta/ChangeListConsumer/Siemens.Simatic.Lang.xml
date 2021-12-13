@@ -1,0 +1,27 @@
+      778716972          778714583      0 2-ACTIVE                  VGA Refresh Timer
+00:00:10.125035 0000000009e65370 ffffff80 fffff8a0 00000000 Real           778716972          778714586      0 2-ACTIVE                  EMT Yielder
+00:00:10.125038 0000000009e652f0 00000000 00000080 00000000 Real           778716972          778715329      0 2-ACTIVE                  CPU Load Timer
+00:00:10.125042 0000000009e604c0 00000100 00000000 00000000 VrSy          3257990456         3289325890     18 2-ACTIVE                  i8254 Programmable Interval Timer
+00:00:10.125044 0000000009e605c0 00004c30 ffffff00 00000000 VrSy          3257990456         3990000000      0 2-ACTIVE                  MC146818 RTC (CMOS) - Second
+00:00:10.125046 0000000009e651f0 00000000 ffffb3d0 00000000 VrSy          3257990456       599932015941      0 2-ACTIVE                  ACPI PM Timer
+00:00:10.125049 ***
+00:00:10.125051 Guest GDT (GCAddr=0000000000023bc8 limit=4f):
+00:00:10.125057 0008 - 0000ffff 00cf9300 - base=00000000 limit=ffffffff dpl=0 DataRW Accessed Present Page 32-bit 
+00:00:10.125058 0010 - 0000ffff 00cf9b00 - base=00000000 limit=ffffffff dpl=0 CodeER Accessed Present Page 32-bit 
+00:00:10.125060 0018 - 31b0ffff 00409b02 - base=000231b0 limit=0000ffff dpl=0 CodeER Accessed Present 32-bit 
+00:00:10.125061 0020 - 31b0ffff 00009302 - base=000231b0 limit=0000ffff dpl=0 DataRW Accessed Present 16-bit 
+00:00:10.125062 0028 - 31b0ffff 00009b02 - base=000231b0 limit=0000ffff dpl=0 CodeER Accessed Present 16-bit 
+00:00:10.125063 0030 - 0000ffff 00009300 - base=00000000 limit=0000ffff dpl=0 DataRW Accessed Present 16-bit 
+00:00:10.125064 0038 - 0000ffff 0000930a - base=000a0000 limit=0000ffff dpl=0 DataRW Accessed Present 16-bit 
+00:00:10.125065 0040 - 0000ffff 0000930a - base=000a0000 limit=0000ffff dpl=0 DataRW Accessed Present 16-bit 
+00:00:10.125066 0048 - c5090067 00008b50 - base=0050c509 limit=00000067 dpl=0 TSS32Busy Present 16-bit 
+00:00:10.125067 ************** End of Guest state at power off ***************
+00:00:10.125591 PDMR3PowerOff: 496 581 ns run time
+00:00:10.125629 Changing the VM state from 'POWERING_OFF' to 'OFF'
+00:00:10.127285 Changing the VM state from 'OFF' to 'DESTROYING'
+00:00:10.127328 ************************* Statistics *************************
+00:00:10.127346 /CPUM/MSR-Totals/Reads                  0 times
+00:00:10.127354 /CPUM/MSR-Totals/ReadsRaisingGP         0 times
+00:00:10.127360 /CPUM/MSR-Totals/ReadsUnknown           0 times
+00:00:10.127366 /CPUM/MSR-Totals/Writes                 0 times
+00:00:10.127372 /CPUM/MSR-Totals/WritesRaisingGP        0 times

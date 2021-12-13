@@ -1,0 +1,35 @@
+obal1 (5)
+00:00:04.479012 VMEmt: HaltedGlobal1 config: cNsSpinBlockThresholdCfg=50000
+00:00:04.479021 Changing the VM state from 'CREATING' to 'CREATED'
+00:00:04.480251 Changing the VM state from 'CREATED' to 'POWERING_ON'
+00:00:04.480363 AIOMgr: Endpoints without assigned bandwidth groups:
+00:00:04.480371 AIOMgr:     E:\wirtualizacja\master\master.vdi
+00:00:04.480857 Changing the VM state from 'POWERING_ON' to 'RUNNING'
+00:00:04.480904 Console: Machine state changed to 'Running'
+00:00:04.481412 GUI: Capturing keyboard on resume
+00:00:04.489213 VMMDev: Guest Log: BIOS: VirtualBox 6.1.30
+00:00:04.489347 PCI: Setting up resources and interrupts
+00:00:04.489724 PIT: mode=2 count=0x10000 (65536) - 18.20 Hz (ch=0)
+00:00:04.495855 ERROR [COM]: aRC=VBOX_E_VM_ERROR (0x80bb0003) aIID={4680b2de-8690-11e9-b83d-5719e53cf1de} aComponent={DisplayWrap} aText={Could not take a screenshot (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:04.500857 Display::i_handleDisplayResize: uScreenId=0 pvVRAM=0000000000000000 w=720 h=400 bpp=0 cbLine=0x0 flags=0x0 origin=0,0
+00:00:04.502014 VMMDev: Guest Log: CPUID EDX: 0x178bfbff
+00:00:04.502241 PIIX3 ATA: Ctl#1: RESET, DevSel=0 AIOIf=0 CmdIf0=0x00 (-1 usec ago) CmdIf1=0x00 (-1 usec ago)
+00:00:04.502359 PIIX3 ATA: Ctl#1: finished processing RESET
+00:00:04.503179 AHCI#0: Reset the HBA
+00:00:04.503200 VD#0: Cancelling all active requests
+00:00:04.503247 AHCI#0: Port 0 reset
+00:00:04.503291 VD#0: Cancelling all active requests
+00:00:04.504030 VMMDev: Guest Log: BIOS: AHCI 0-P#0: PCHS=16383/16/63 LCHS=1024/255/63 0x0000000001400000 sectors
+00:00:04.505555 PIT: mode=2 count=0x48d3 (18643) - 64.00 Hz (ch=0)
+00:00:04.521231 Display::i_handleDisplayResize: uScreenId=0 pvVRAM=000000000b540000 w=640 h=480 bpp=32 cbLine=0xA00 flags=0x0 origin=0,0
+00:00:04.982090 GUI: UIMachineViewNormal::resendSizeHint: Restoring guest size-hint for screen 0 to 800x600
+00:00:04.995623 GUI: 2D video acceleration is disabled
+00:00:04.995972 GUI: HID LEDs sync is enabled
+00:00:05.023387 GUI: UIMachineLogicNormal::sltCheckForRequestedVisualStateType: Requested-state=0, Machine-state=5
+00:00:06.995508 Display::i_handleDisplayResize: uScreenId=0 pvVRAM=0000000000000000 w=720 h=400 bpp=0 cbLine=0x0 flags=0x0 origin=0,0
+00:00:07.001713 PIT: mode=2 count=0x10000 (65536) - 18.20 Hz (ch=0)
+00:00:07.004502 VMMDev: Guest Log: BIOS: Boot : bseqnr=1, bootseq=0231
+00:00:07.005005 VMMDev: Guest Log: BIOS: Boot from Floppy 0 failed
+00:00:07.005559 VMMDev: Guest Log: BIOS: Boot : bseqnr=2, bootseq=0023
+00:00:07.023823 VMMDev: Guest Log: BIOS: Booting from CD-ROM...
+00:0
