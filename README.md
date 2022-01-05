@@ -1,5 +1,5 @@
 <h1>Projekty PLC</h1>
-<div style="margin:40px 40px;">dla platform: Simens S1200 i Simens S300</div>
+<div style="margin:40px 40px;">dla platform: Siemens S1200</div>
 
 <h2>Materiał</h2>
 <h3>Moduły pamięci</h3>
